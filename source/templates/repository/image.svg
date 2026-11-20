@@ -35,7 +35,7 @@
 
       <% if (base.metadata) { %>
         <footer>
-          <span>Last updated <%= meta.generated %> with lowlighter/metrics@<%= meta.version %></span>
+          <span>Last updated <%= meta.generated %> with tronicum/metrics@<%= meta.version %> (forked from lowlighter/metrics)</span>
         </footer>
       <% } %>
 
